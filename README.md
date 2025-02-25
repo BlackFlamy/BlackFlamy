@@ -68,10 +68,12 @@ Passionate Frontend Developer with over a year of experience in building modern,
 
 <h1 align="center">⚡ Stats ⚡</h1>  
 <a href="#">
-  <img height=250 width=610  align="center" src="https://github-readme-stats.vercel.app/api?username=BlackFlamy&show_icons=true&theme=tokyonight" />
+  <img height=250 width=100%  align="center" src="https://github-readme-stats.vercel.app/api?username=BlackFlamy&show_icons=true&theme=tokyonight" />
 </a>
+<br/>  
+<br/>  
 <a href="#">
-  <img height=250 width=390  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackFlamy&layout=donut&theme=tokyonight&langs_count=8&card_width=320" />
+  <img height=250 width=100%  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BlackFlamy&layout=donut&theme=tokyonight&langs_count=8&card_width=320" />
 </a>
 
 <br/>  
