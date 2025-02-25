@@ -19,7 +19,7 @@ Passionate Frontend Developer with over a year of experience in building modern,
 
 ✅ Backend (Basic Knowledge): Node.js, Express.js
 
-🎯 What I Can Do for You:
+🎯 What I Can Do:
 
 ✅ Build modern, responsive, and user-friendly web interfaces
 
