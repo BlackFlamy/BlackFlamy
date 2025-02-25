@@ -1,6 +1,5 @@
 
-## Hey 👋, I'm Bohdan Yehorushkin!  
-  
+<h1 align="center">Hey 👋, I'm Bohdan Yehorushkin!  </h1>  
 
   
   
@@ -37,7 +36,7 @@ Passionate Frontend Developer with over a year of experience in building modern,
 <br/>  
 
 
-## Languages and Tools  
+<h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>  
 <div align="center">  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -67,7 +66,7 @@ Passionate Frontend Developer with over a year of experience in building modern,
 <br/>  
 
 
-## Github Stats  
+<h1 align="center">⚡ Stats ⚡</h1>  
 <a href="#">
   <img height=250 width=610  align="center" src="https://github-readme-stats.vercel.app/api?username=BlackFlamy&show_icons=true&theme=tokyonight" />
 </a>
@@ -76,13 +75,17 @@ Passionate Frontend Developer with over a year of experience in building modern,
 </a>
 
 <br/>  
+<br/> 
 
-<a href="#">
-  <img height=250 width=390  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={BlackFlamy}&theme={dracula}" />
+<a href="#" width=100%>
+  <img height=300 width=100%  align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BlackFlamy&theme=tokyonight" />
 </a>
-  
 
-<br/>  
+<br/>
+
+
+<!-- <h1 align="center">👨‍💻 Repositories 👨‍💻</h1> -->   
+
 
   
 
@@ -90,6 +93,3 @@ Passionate Frontend Developer with over a year of experience in building modern,
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
