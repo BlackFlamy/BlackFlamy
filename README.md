@@ -9,29 +9,6 @@
 ### Glad to see you here!  
 Passionate Frontend Developer with over a year of experience in building modern, responsive, and high-performance web applications. I specialize in HTML, CSS (SCSS), React, JavaScript TypeScript, Tailwind and Redux Toolkit, ensuring seamless user experiences and scalable solutions.
 
-🔹 Key Skills & Technologies:
-
-✅ Frontend: HTML, CSS (SCSS, Tailwind), JavaScript, TypeScript
-
-✅ Frameworks & Libraries: React, Angular, Redux Toolkit (React Redux), Bootstrap (Angular)
-
-✅Tools & Build Systems: Vite, Webpack, Git, Figma, Photoshop
-
-✅ Backend (Basic Knowledge): Node.js, Express.js
-
-🎯 What I Can Do:
-
-✅ Build modern, responsive, and user-friendly web interfaces
-
-✅ Optimize performance and ensure smooth user experience
-
-✅ Collaborate with backend teams to create seamless API integrations
-
-✅ Improve and maintain existing web applications
-
-✅ Work with UI/UX designs and bring them to life with clean code
-  
-  
 
 <br/>  
 
