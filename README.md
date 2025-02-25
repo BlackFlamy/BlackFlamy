@@ -7,8 +7,7 @@
 
 
 ### Glad to see you here!  
-Passionate Frontend Developer with over a year of experience in building modern, responsive, and high-performance web applications. I specialize in HTML, CSS (SCSS), React, JavaScript TypeScript, Tailwind and Redux Toolkit, ensuring seamless user experiences and scalable solutions.
-
+Passionate Frontend Developer with over a year of experience in building modern, responsive, and high-performance web applications. 
 
 <br/>  
 
