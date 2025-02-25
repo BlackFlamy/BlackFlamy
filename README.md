@@ -7,7 +7,7 @@
 
 
 ### Glad to see you here!  
-I'm a passionate Frontend Developer from Kyiv region, currently a 2nd-year student at Tavrida National V.I. Vernadsky University. I love building modern and responsive web applications, constantly learning new technologies, and improving my skills.
+I'm a passionate Frontend Developer from Kyiv. I love building modern and responsive web applications, constantly learning new technologies, and improving my skills.
 
 💡 I'm eager to contribute to exciting projects and grow as a developer. My main focus is on frontend development, but I'm also interested in exploring the backend side.
 
